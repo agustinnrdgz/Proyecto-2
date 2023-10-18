@@ -1,0 +1,94 @@
+body{
+    background-color: rgb(242, 245, 249);
+}
+
+#contenedor{
+    width: 334px;
+    height: 422px;
+    margin-top: 120px;
+    margin-left: 500px;
+    border-radius: 16px;
+    background-color: white;
+    font-family: sans-serif;
+}
+
+#señora{
+    width: 334px;
+}
+
+#perfect{
+    margin-top: 20px;
+    margin-left: 27px;
+    font-size:large;
+    font-weight: 500;
+    color: rgb(17, 23, 41);
+    text-shadow: .01px .01px 1px rgb(0, 0, 0);
+}
+
+#business{
+    margin-top: -20px;
+    margin-left: 27px;
+    font-size:large;
+    font-weight: 500;
+    color: rgb(17, 23, 41);
+    text-shadow: .01px .01px 1px rgb(0, 0, 0);
+}
+
+#small{
+    margin-top: 2px;
+    margin-left: 27px;
+    font-size: small;
+    font-weight: 100;
+    color: rgb(141, 150, 166);
+    
+}
+
+#you{
+    margin-top: -35px;
+    margin-left: 27px;
+    font-size: small;
+    font-weight: 100;
+    color: rgb(141, 150, 166);
+}
+
+#linea{
+    width: 334px;
+    height: 1px;
+    background-color: rgb(242, 245, 249);
+}
+
+#señor{
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 27px;
+    margin-right: 0px;
+    display:inline;
+    position: absolute;
+}
+
+#amy{
+    margin-top: 25px;
+    margin-left: 72px;
+    font-size: small;
+    font-weight: 500;
+    display: inline-block;
+    color: rgb(24, 30, 47);
+    text-shadow: .01px .01px 1px rgb(0, 0, 0);
+}
+
+#customer{
+    margin-top: -9px;
+    margin-left: 72px;
+    font-size: x-small;
+    display: inline-block;
+    position: absolute;
+    color: rgb(115, 126, 146);
+    text-shadow: .01px .01px 1px rgb(141, 150, 166);
+}
+
+#firma{
+    margin-top: 65px;
+    margin-left: 1180px;
+    color: rgb(181, 181, 181);
+    font-family: cursive;
+}
